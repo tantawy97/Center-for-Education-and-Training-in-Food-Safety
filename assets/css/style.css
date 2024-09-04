@@ -7,7 +7,7 @@
 @import url('./font/inter.css');
 
 body {
-    font-family: 'Inter var', sans-serif;
+    font-family: url('./font/Somer.ttf'),'Inter var', sans-serif;
     font-feature-settings: "cv02","cv03","cv04","cv11";
 }
 
